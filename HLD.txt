@@ -1,4 +1,9 @@
 TRADINGVIEW PROJECT
+-------------------
+
+
+API ---> Trading View
+
 
 SYMBOL FILE IMPORT = MAX 10 STOCKS
 10 STOCKS FUTURE  - 14 OPTIONS
