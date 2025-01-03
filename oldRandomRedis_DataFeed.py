@@ -1,3 +1,6 @@
+# Appends the generated symbol - price pair to a Redis list named stock_prices.
+#                                               ------------ 
+
 import redis
 import random
 import time
